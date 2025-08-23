@@ -38,7 +38,7 @@ Hi, I am **Gurpreet Kaur**, a Bioinformatics & Computational Genomics Scientist 
 9. Prader-Willi Syndrome (PWS)
 10. Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies I Use
 - **Workflow Manager & Pipelines**: [Nextflow](https://nf-co.re/pipelines/)-based pipelines on High-Performance Computing (HPC) cluster
 - **Statistics & Visualization**: R packages - [DESeq2](https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html) |  [limma](https://bioconductor.org/packages/release/bioc/html/limma.html) | [ggplot2](https://ggplot2.tidyverse.org/) | [ComplexHeatmap](https://github.com/jokergoo/ComplexHeatmap) | [EnhancedVolcano](https://github.com/kevinblighe/EnhancedVolcano) | [UpsetR](https://github.com/hms-dbmi/UpSetR) 
 - **Interactive Visualization**: R packages - [InteractiveComplexHeatmap](https://github.com/jokergoo/InteractiveComplexHeatmap) | [Shiny](https://github.com/rstudio/shiny)
@@ -51,6 +51,6 @@ Hi, I am **Gurpreet Kaur**, a Bioinformatics & Computational Genomics Scientist 
 - [GoogleScholar](https://scholar.google.com/citations?hl=en&user=cFgjdH0AAAAJ&view_op=list_works&sortby=pubdate) 
 - [ResearchGate](https://www.researchgate.net/profile/Gurpreet-Kaur/publications)
 
-### 📫 Let's connect
+### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/gurpreet-bioin4/)
 ---
