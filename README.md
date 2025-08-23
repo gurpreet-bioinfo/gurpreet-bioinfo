@@ -2,11 +2,9 @@
 Hi, I am **Gurpreet Kaur**, a Bioinformatics & Computational Genomics Scientist 🧬 with 14+ years of experience in the area of bioinformatics including leading, managing and analyzing bioinformatics and genomics/multi-omics projects, transforming complex datasets into actionable insights across academia and clinical research 💻.
 
 ### 💡 Expertise
-- Omics data analysis: Upstream and Downstream
-- Causal variant discovery (germline and somatic) according to ACMG guidelines: Case-by-case | Cohort
-- Genetic modifiers identification
+- Omics data analysis and visualization: Upstream and Downstream
+- Causal variant discovery (germline and somatic) according to ACMG guidelines | Genetic modifiers identification | Case-by-case | Cohort
 - Differential Gene Expression Analysis | Functional Enrichment Analysis | Network Analysis | RNA Splicing Analysis | RNA-Fusion Analysis
-- Data Visualization
 - Conceptualization and leading web application development
 
 ### 🎯 Current Focus and Contribution: Rare genetic disorders and cancer
@@ -24,10 +22,8 @@ Hi, I am **Gurpreet Kaur**, a Bioinformatics & Computational Genomics Scientist 
 4. Neurofibromatosis 
     - [DITTO4NF: In silico classification and prioritization of likely pathogenic variants for NF1 using explainable machine learning](https://www.gimopen.org/article/S2949-7744(23)00701-X/fulltext)
     - [Won challenge#2 as a team "DITTO4NF" on "Prioritizing likely pathogenic NF1 germline variants for Neurofibromatosis" at Hack4NF Hackathon by Children's Tumor Foundation, USA. Also won two other prizes: best use of PMP platform and incubation prize](https://www.ctf.org/news/2022-hack4nf-recap-and-winning-presentations/)
-5. Chorioangiomas (placenta tumor) 
-    - [Health Equity Award as a team "BirthSeq-AI" on “Development of an AI-based approach to better understand chorangiomas by studying placental heterogeneity”, AI against Cancer Data Science Hackathon, UAB](https://sites.uab.edu/cgds/2021/09/02/hackin-it-at-the-hackathon/)
-6. Hepatocellular Carcinoma 
-    - [Unique Somatic Mutational Landscape in Cirrhotic-Like (Cirrhotomimetic) Hepatocellular Carcinoma](https://www.nature.com/articles/s41379-022-01044-4)
+5. Chorioangiomas (placenta tumor): [Health Equity Award as a team "BirthSeq-AI" on “Development of an AI-based approach to better understand chorangiomas by studying placental heterogeneity”, AI against Cancer Data Science Hackathon, UAB](https://sites.uab.edu/cgds/2021/09/02/hackin-it-at-the-hackathon/)
+6. Hepatocellular Carcinoma: [Unique Somatic Mutational Landscape in Cirrhotic-Like (Cirrhotomimetic) Hepatocellular Carcinoma](https://www.nature.com/articles/s41379-022-01044-4)
 7. Pediatric Cancer Cardiotoxicity 
 8. Amyotrophic Lateral Sclerosis (ALS) 
 9. Prader-Willi Syndrome (PWS)
