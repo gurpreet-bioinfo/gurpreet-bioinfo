@@ -3,7 +3,7 @@ Hi, I am **Gurpreet Kaur**, a Bioinformatics & Computational Genomics Scientist 
 
 ### 💡 Expertise
 - Omics data analysis and visualization: Upstream and Downstream
-- Causal variant discovery (germline and somatic) acc. to ACMG guidelines | Genetic modifiers identification | Case-by-case | Cohort
+- Causal variant discovery (germline and somatic) and variant curation acc. to ACMG guidelines | Genetic modifiers identification | Case-by-case | Cohort
 - Differential Gene Expression Analysis | Functional Enrichment Analysis | Network Analysis | RNA Splicing | RNA-Fusion Analysis
 - Conceptualization and leading web application development
 
