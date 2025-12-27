@@ -22,10 +22,10 @@ Hi, I am **Gurpreet Kaur**, a Bioinformatics & Computational Genomics Scientist 
 4. **Chorioangiomas (placenta tumor)**:
    - 2021: Conceptulalize the project idea, approach, tools, analysis and also the material for the presentation [Health Equity Award as a team "BirthSeq-AI" on “Development of an AI-based approach to better understand chorangiomas by studying placental heterogeneity”, AI against Cancer Data Science Hackathon, UAB](https://sites.uab.edu/cgds/2021/09/02/hackin-it-at-the-hackathon/)
      - Slides here: https://www.youtube.com/watch?v=qeVsJACDe88&t=6743s
-5. **Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)**
+5. **Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)**:
    - Led and mentored RNA-Seq analysis, created analysis workflow figure (Fig 1 in the manuscript), performed interpretation of RNA-Seq secondary results including QC, preparation of input metadata, provided my R code and consultation for RNA-Seq tertiary analysis and visulization methods.
      - JTM 2025 Manuscript here: [Uncovering the genetic architecture of ME/CFS: a precision approach reveals impact of rare monogenic variation](https://link.springer.com/article/10.1186/s12967-025-07586-w)
-6. **Neurofibromatosis** 
+6. **Neurofibromatosis**: 
     - [DITTO4NF: In silico classification and prioritization of likely pathogenic variants for NF1 using explainable machine learning](https://www.gimopen.org/article/S2949-7744(23)00701-X/fulltext)
     - [Won challenge#2 as a team "DITTO4NF" on "Prioritizing likely pathogenic NF1 germline variants for Neurofibromatosis" at Hack4NF Hackathon by Children's Tumor Foundation, USA. Also won two other prizes: best use of PMP platform and incubation prize](https://www.ctf.org/news/2022-hack4nf-recap-and-winning-presentations/)
 7. **Hepatocellular Carcinoma**:
