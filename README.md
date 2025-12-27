@@ -14,16 +14,16 @@ Hi, I am **Gurpreet Kaur**, a Bioinformatics & Computational Genomics Scientist 
     - [Unraveling the complexity of cystic fibrosis: genetic modifiers and their roles in cystic fibrosis pathogenesis](https://www.sciencedirect.com/science/article/pii/S1569199323012717)
 2. **Muscular Dystrophies (Project lead)**
     - Abstract in Neuromuscular Disorders 2023: [Generation and characterization of a novel XMEA mouse model and pharmacological evaluation of autophagy antagonists](https://www.sciencedirect.com/science/article/abs/pii/S0960896623002201)
-    - Presented at UAB Postdoc Research Day 2022 [Computational workflow of RNA-Seq-based diagnostics for rare, undiagnosed and misdiagnosed diseases: A Case Study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cFgjdH0AAAAJ&sortby=pubdate&citation_for_view=cFgjdH0AAAAJ:tOudhMTPpwUC)
+    - Presented at UAB Postdoc Research Day 2022: [Computational workflow of RNA-Seq-based diagnostics for rare, undiagnosed and misdiagnosed diseases: A Case Study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cFgjdH0AAAAJ&sortby=pubdate&citation_for_view=cFgjdH0AAAAJ:tOudhMTPpwUC)
     - 2022 Human Mutation Manuscript: [DOCKopathies: A systematic review of the clinical pathologies associated with human DOCK pathogenic variants](https://pmc.ncbi.nlm.nih.gov/articles/PMC9357139/)
 3. **Pediatric Thyroid Cancer (Project lead)**
-    - Preseneted at CSHL Biological Data Science Meeting 2024: [Integrative genomic characterization of a rare pediatric differentiated thyroid cancer from FFPE samples using RNA sequencing and whole exome sequencing](https://meetings.cshl.edu/abstracts.aspx?meet=DATA&year=24)
+    - Presented at CSHL Biological Data Science Meeting 2024: [Integrative genomic characterization of a rare pediatric differentiated thyroid cancer from FFPE samples using RNA sequencing and whole exome sequencing](https://meetings.cshl.edu/abstracts.aspx?meet=DATA&year=24)
     - [Investigating the oncogenic variation of pediatric differentiated thyroid cancer from FFPE samples using RNA sequencing and whole exome sequencing](https://www.liebertpub.com/doi/10.1089/thy.2023.29156.abstracts)
 4. **Chorioangiomas (placenta tumor)**:
    - 2021: Conceptulalize the project idea, approach, tools, analysis and also the material for the presentation [Health Equity Award as a team "BirthSeq-AI" on “Development of an AI-based approach to better understand chorangiomas by studying placental heterogeneity”, AI against Cancer Data Science Hackathon, UAB](https://sites.uab.edu/cgds/2021/09/02/hackin-it-at-the-hackathon/)
      - Slides here: https://www.youtube.com/watch?v=qeVsJACDe88&t=6743s
 5. **Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)**
-   - Led and mentored RNA-Seq analysis, generated design figure (Fig 1), performed interpretation of RNA-Seq secondary results including QC, preparation of input metadata, provided R code and consultation for RNA-Seq tertiary analysis.
+   - Led and mentored RNA-Seq analysis, created analysis workflow figure (Fig 1 in the manuscript), performed interpretation of RNA-Seq secondary results including QC, preparation of input metadata, provided my R code and consultation for RNA-Seq tertiary analysis.
      - JTM 2025 Manuscript here: [Uncovering the genetic architecture of ME/CFS: a precision approach reveals impact of rare monogenic variation](https://link.springer.com/article/10.1186/s12967-025-07586-w)
 6. **Neurofibromatosis** 
     - [DITTO4NF: In silico classification and prioritization of likely pathogenic variants for NF1 using explainable machine learning](https://www.gimopen.org/article/S2949-7744(23)00701-X/fulltext)
