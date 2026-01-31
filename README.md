@@ -1,5 +1,5 @@
 ### 👋 Welcome  
-Hi, I am **Gurpreet Kaur**, a Bioinformatics & Computational Genomics Scientist 🧬 with 14+ years of experience in the area of bioinformatics including leading, managing and analyzing bioinformatics and genomics/multi-omics projects, transforming complex datasets into actionable insights across academia and clinical research 💻.
+Hi, I am **Gurpreet Kaur**, a Bioinformatics & Computational Genomics Variant Scientist 🧬 with 17+ years of experience in the area of bioinformatics including 7+ years in the biomedical field spanning rare genetic and neurological disorders, and oncology. I turn omics data into actionable answers through variant classification and interpretation, and have also conceptualized and led web application development projects across academia and clinical research 💻.
 
 ### 💡 Expertise
 - Omics data analysis and visualization: Upstream and Downstream
@@ -8,20 +8,26 @@ Hi, I am **Gurpreet Kaur**, a Bioinformatics & Computational Genomics Scientist 
 - Conceptualization and leading web application development
 
 ### 🎯 Current Focus and Contribution: Rare genetic disorders and cancer
-1. **Cystic Fibrosis (Project lead)** 
-    - Presented at ACMG Annual Meeting 2023: [Identification of molecular modifiers of disease in a group of systematically phenotyped patients with cystic fibrosis](https://www.gimopen.org/article/S2949-7744(23)00539-3/fulltext)
+1. **Pediatric Thyroid Cancer (Project and Web Application Development Lead)**
+    - Presented work and web app at CSHL Biological Data Science Meeting 2024: [Integrative genomic characterization of a rare pediatric differentiated thyroid cancer from FFPE samples using RNA sequencing and whole exome sequencing](https://meetings.cshl.edu/abstracts.aspx?meet=DATA&year=24)
+      - Conceptualized, ideated, led and contributed to the development of [Pediatric Thyroid Cancer Interactive Web application - Pediatric Thyroid Cancer Explorer](https://github.com/gurpreet-bioinfo/pediatric-thyroid-cancer-interactive-app).
+    - [Investigating the oncogenic variation of pediatric differentiated thyroid cancer from FFPE samples using RNA sequencing and whole exome sequencing](https://www.liebertpub.com/doi/10.1089/thy.2023.29156.abstracts)
+    
+2. **Cystic Fibrosis (Project and Web Application Development Lead)** 
+    - Presented work and web app at ACMG Annual Meeting 2023: [Identification of molecular modifiers of disease in a group of systematically phenotyped patients with cystic fibrosis](https://www.gimopen.org/article/S2949-7744(23)00539-3/fulltext)
+       - Conceptualized, ideated, led and contributed to the development of **Cystic Fibrosis Web application**.
     - Mentored this project: [Implementing polygenic score catalog calculator for identifying genetic modifiers in cystic fibrosis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cFgjdH0AAAAJ&sortby=pubdate&citation_for_view=cFgjdH0AAAAJ:geHnlv5EZngC)
     - [Unraveling the complexity of cystic fibrosis: genetic modifiers and their roles in cystic fibrosis pathogenesis](https://www.sciencedirect.com/science/article/pii/S1569199323012717)
-2. **Muscular Dystrophies (Project lead)**
+    
+3. **Muscular Dystrophies (Project lead)**
     - Abstract in Neuromuscular Disorders 2023: [Generation and characterization of a novel XMEA mouse model and pharmacological evaluation of autophagy antagonists](https://www.sciencedirect.com/science/article/abs/pii/S0960896623002201)
     - Presented at UAB Postdoc Research Day 2022: [Computational workflow of RNA-Seq-based diagnostics for rare, undiagnosed and misdiagnosed diseases: A Case Study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cFgjdH0AAAAJ&sortby=pubdate&citation_for_view=cFgjdH0AAAAJ:tOudhMTPpwUC)
     - 2022 Human Mutation Manuscript: [DOCKopathies: A systematic review of the clinical pathologies associated with human DOCK pathogenic variants](https://pmc.ncbi.nlm.nih.gov/articles/PMC9357139/)
-3. **Pediatric Thyroid Cancer (Project lead)**
-    - Presented at CSHL Biological Data Science Meeting 2024: [Integrative genomic characterization of a rare pediatric differentiated thyroid cancer from FFPE samples using RNA sequencing and whole exome sequencing](https://meetings.cshl.edu/abstracts.aspx?meet=DATA&year=24)
-    - [Investigating the oncogenic variation of pediatric differentiated thyroid cancer from FFPE samples using RNA sequencing and whole exome sequencing](https://www.liebertpub.com/doi/10.1089/thy.2023.29156.abstracts)
+
 4. **Chorioangiomas (placenta tumor)**:
-   - 2021: Conceptulalize the project idea, approach, tools, analysis and also the material for the presentation [Health Equity Award as a team "BirthSeq-AI" on “Development of an AI-based approach to better understand chorangiomas by studying placental heterogeneity”, AI against Cancer Data Science Hackathon, UAB](https://sites.uab.edu/cgds/2021/09/02/hackin-it-at-the-hackathon/)
+   - 2021: Conceptualize the project idea, approach, tools, analysis and also the material for the presentation [Health Equity Award as a team "BirthSeq-AI" on “Development of an AI-based approach to better understand chorangiomas by studying placental heterogeneity”, AI against Cancer Data Science Hackathon, UAB](https://sites.uab.edu/cgds/2021/09/02/hackin-it-at-the-hackathon/)
      - Slides here: https://www.youtube.com/watch?v=qeVsJACDe88&t=6743s
+       
 5. **Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)**:
    - Led and mentored RNA-Seq analysis, created analysis workflow figure (Fig 1 in the manuscript), performed interpretation of RNA-Seq secondary results including QC, preparation of input metadata, provided my R code and consultation for RNA-Seq tertiary analysis and visulization methods.
      - JTM 2025 Manuscript here: [Uncovering the genetic architecture of ME/CFS: a precision approach reveals impact of rare monogenic variation](https://link.springer.com/article/10.1186/s12967-025-07586-w)
